@@ -1,7 +1,7 @@
 {
-    "name": "mamuz/php-dependency-analysis",
+    "name": "bgorski/php-dependency-analysis",
     "type": "project",
-    "description": "Static code analysis to find violations in a dependency graph",
+    "description": "Static code analysis to find violations in a dependency graph. Fork of the mamuz/php-dependency-analysis package.",
     "homepage": "https://github.com/mamuz/PhpDependencyAnalysis",
     "license": "MIT",
     "keywords": [
@@ -34,7 +34,7 @@
         "clue/graph": "~0.8",
         "graphp/algorithms": "~0.8.1",
         "graphp/graphviz": "~0.2.0",
-        "phpdocumentor/reflection-docblock": "~4.0",
+        "phpdocumentor/reflection-docblock": "~5.3",
         "doctrine/collections": "~1.0",
         "symfony/yaml": "~4.2",
         "symfony/console": "~4.2",
