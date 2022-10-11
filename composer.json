@@ -38,7 +38,7 @@
         "doctrine/collections": "~1.0",
         "symfony/yaml": "~5.3.14",
         "symfony/console": "~4.2",
-        "symfony/finder": "~4.2"
+        "symfony/finder": "~5.2"
     },
     "require-dev": {
         "ext-simplexml": "*",
